@@ -1,0 +1,7 @@
+/Users/sigris/sigris1/src/Lab5/Repositoryes/obj/Debug/net8.0/Repositoryes.csproj.AssemblyReference.cache
+/Users/sigris/sigris1/src/Lab5/Repositoryes/obj/Debug/net8.0/Repositoryes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigris/sigris1/src/Lab5/Repositoryes/obj/Debug/net8.0/Repositoryes.AssemblyInfoInputs.cache
+/Users/sigris/sigris1/src/Lab5/Repositoryes/obj/Debug/net8.0/Repositoryes.AssemblyInfo.cs
+/Users/sigris/sigris1/src/Lab5/Repositoryes/obj/Debug/net8.0/Repositoryes.csproj.CoreCompileInputs.cache
+/Users/sigris/sigris1/src/Lab5/Repositoryes/obj/Debug/net8.0/Repositoryes.sourcelink.json
+/Users/sigris/sigris1/src/Lab5/Repositoryes/obj/Debug/net8.0/Repositoryes.xml

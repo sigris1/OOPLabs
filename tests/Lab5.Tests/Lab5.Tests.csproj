@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <IsPackable>false</IsPackable>
+        <IsTestProject>true</IsTestProject>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="coverlet.collector"/>
+        <PackageReference Include="Microsoft.NET.Test.Sdk"/>
+        <PackageReference Include="xunit"/>
+        <PackageReference Include="xunit.runner.visualstudio"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\src\Lab5\CommandDispatcher\CommandDispatcher.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Commands\Commands.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Core\ResultTypes\ResultTypes.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Core\Users\Users.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\DispatchHandlers\DispatchHandlers.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Extensions\Extensions.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Lab-5\Program\Program.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Lab5.Interface\Runner\Runner.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Migrations\Migrations.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Repositories\Repositories.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Scenarios\Scenarios.csproj" />
+      <ProjectReference Include="..\..\src\Lab5\Services\Services.csproj" />
+    </ItemGroup>
+
+</Project>

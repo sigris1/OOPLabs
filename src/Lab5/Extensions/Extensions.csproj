@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Itmo.Dev.Platform.Postgres" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CommandDispatcher\CommandDispatcher.csproj" />
+      <ProjectReference Include="..\Lab5.Interface\Runner\Runner.csproj" />
+      <ProjectReference Include="..\Migrations\Migrations.csproj" />
+      <ProjectReference Include="..\Repositories\Repositories.csproj" />
+      <ProjectReference Include="..\Services\Services.csproj" />
+    </ItemGroup>
+
+</Project>

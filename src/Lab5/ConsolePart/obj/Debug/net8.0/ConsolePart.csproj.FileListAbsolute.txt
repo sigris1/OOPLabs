@@ -1,0 +1,15 @@
+/Users/sigris/sigris1/src/Lab5/ConsolePart/bin/Debug/net8.0/ConsolePart.deps.json
+/Users/sigris/sigris1/src/Lab5/ConsolePart/bin/Debug/net8.0/ConsolePart.dll
+/Users/sigris/sigris1/src/Lab5/ConsolePart/bin/Debug/net8.0/ConsolePart.pdb
+/Users/sigris/sigris1/src/Lab5/ConsolePart/bin/Debug/net8.0/ConsolePart.xml
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.csproj.AssemblyReference.cache
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.AssemblyInfoInputs.cache
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.AssemblyInfo.cs
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.csproj.CoreCompileInputs.cache
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.sourcelink.json
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.dll
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/refint/ConsolePart.dll
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.xml
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ConsolePart.pdb
+/Users/sigris/sigris1/src/Lab5/ConsolePart/obj/Debug/net8.0/ref/ConsolePart.dll
